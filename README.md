@@ -26,7 +26,7 @@
 Було доволі цікаво проходити завдання на сайті по Flexbox i Gridbox. З flexbox все вийшло швидко оскільки вивчав його до цього, а ось grid були затримки і іноді довго шукав вирішення. Скоріше за все буду використовувати тільки Flexbox) оскільки зрозумів його дуже добре,а коли треба буде працювати з таблицями то вже grid ,але не в спрощеній формі.
 
 ## HTML-CSS-Popup
-Demo | Code base
+[Demo](https://d1telo.github.io/html-practic/) | [Code base](https://github.com/d1telo/html-practic)
 
 ## JS Basics
 ![coursera_done](https://user-images.githubusercontent.com/92037014/189626834-0127e11c-d5e1-4fb7-b192-3cbadd482c8e.png)
