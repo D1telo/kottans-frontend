@@ -31,3 +31,6 @@
 ## JS Basics
 ![coursera_done](https://user-images.githubusercontent.com/92037014/189626834-0127e11c-d5e1-4fb7-b192-3cbadd482c8e.png)
 Було доволі важко виконувати,але я зміг і виконав ці завдання. Також дуже подобається ця версія коли є завдання і приклад, і ти виконуєш це завдання, так я багато чого зрозумів і виконав.
+
+## A Tiny JS World 
+[Demo](https://d1telo.github.io/tiny-js/) | [Code base](https://github.com/D1telo/a-tiny-JS-world/blob/master/index.js)
